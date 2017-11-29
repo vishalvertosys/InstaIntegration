@@ -23,6 +23,7 @@ import android.os.Handler.Callback;
 public class AllMediaFiles extends AppCompatActivity {
 
     Private String Vishal;
+    Private String abhishek;
     private GridView gvAllImages;
     private HashMap<String, String> userInfo;
     private ArrayList<String> imageThumbList = new ArrayList<String>();
